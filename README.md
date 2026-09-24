@@ -3,7 +3,7 @@
   <p><strong>Computer Science Student & Problem Solver</strong></p>
 
   <p>
-    <a href="www.linkedin.com/in/mohamed-ayman-b33898388"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://linkedin.com/in/mohamed-ayman-b33898388"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://codeforces.com/profile/MohamedAyman717"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
   </p>
 </div>

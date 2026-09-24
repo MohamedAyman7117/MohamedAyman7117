@@ -35,7 +35,3 @@
   <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white" alt="CLion"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"/>
 </p>
-
-<div align="center">
-  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
-</div>
